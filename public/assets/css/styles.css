@@ -1,0 +1,19 @@
+.selected {
+  background-color: lightblue;
+}
+
+.panel {
+    padding: 10px;
+    border-radius: 10px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: silver;
+}
+
+.field {
+    width: 100%;
+    min-height: 26px;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
